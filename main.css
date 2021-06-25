@@ -1,0 +1,40 @@
+
+tr,td{
+    border-style:groove;
+   left: 100px;
+    border-color: block;
+    border-width: 2px;
+    justify-content: center;
+   text-align: center;
+   height: 40px;
+  border-radius: 2px;
+   background: linear-gradient(rgb(153, 108, 108),rgb(103, 103, 133));
+   vertical-align: middle;
+  border:none;
+  text-shadow: brown;
+}
+.First,.Previous,.Next, .Last{
+    width: 70px;
+    text-align: center;
+   
+}
+button:hover{
+    background-color: rgb(30, 115, 177);
+}
+button{
+color:rgb(51, 82, 128);
+background-color: rgb(131, 133, 59);
+border-style: double;
+border-radius: 10px;
+}
+.i0,.i1,.i2,.i3,.i4,.i5,.i6,.i7,.i8{
+   background-color:"";
+}
+body{
+    
+    background-color: teal;
+    position: fixed;
+    text-align: center;
+   }
+
+
